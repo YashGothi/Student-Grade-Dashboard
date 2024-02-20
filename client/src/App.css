@@ -1,0 +1,21 @@
+*
+{
+font-size: 40px;
+}
+
+body 
+{
+background-color: khaki;
+}
+
+.nav 
+{
+background-color: black !important;
+}
+
+.nav a
+{
+color: white;
+text-decoration: None;
+margin: 100px;
+}
